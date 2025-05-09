@@ -7,7 +7,7 @@ const {
     useMultiFileAuthState,
     delay,
     Browsers
-} = require('baileys');
+} = require('@whiskeysockets/baileys');
 const { upload } = require('./mega');
 
 const router = express.Router();
