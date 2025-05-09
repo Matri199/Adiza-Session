@@ -88,7 +88,7 @@ https://github.com/Matri199/Queen-Adiza
                             contextInfo: {
                                 externalAdReply: {
                                     title: "MATRIX-X-KING",
-                                    thumbnailUrl: "https://raw.githubusercontent.com/Matri199/Adiza-Session/main/connect_btn.jpg",
+                                    thumbnailUrl: "https://files.catbox.moe/sgmydn.jpeg",
                                     sourceUrl: "https://chat.whatsapp.com/Iz8jA4DdW9qCQpR0YbMlnz",
                                     mediaType: 1,
                                     renderLargerThumbnail: true
@@ -105,7 +105,7 @@ https://github.com/Matri199/Queen-Adiza
                             contextInfo: {
                                 externalAdReply: {
                                     title: "QUEEN-ADIZA",
-                                    thumbnailUrl: "https://raw.githubusercontent.com/Matri199/Adiza-Session/refs/heads/main/connect_btn.jpg",
+                                    thumbnailUrl: "https://files.catbox.moe/sgmydn.jpeg",
                                     sourceUrl: "https://chat.whatsapp.com/Iz8jA4DdW9qCQpR0YbMlnz",
                                     mediaType: 2,
                                     renderLargerThumbnail: true,
